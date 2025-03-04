@@ -17,7 +17,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='autoxeda',
-    version='0.1.0',
+    version='0.1.1',
     description='An automated and dynamic exploratory data analysis (EDA) library for streamlined data insights using Large Language Model.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
